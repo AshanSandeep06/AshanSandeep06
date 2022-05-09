@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p><br>
 
-<img align="right" alt="Coding" width="325" src="https://github.com/Pasan-Pahasara/Mindula-Dilthushan/blob/master/assets/image.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/AshanSandeep06/Images-repo/blob/master/src/assets/image.gif">
 
 <img src="https://komarev.com/ghpvc/?username=pahasara1&label=Profile%20views&color=0e75b6&style=flat" alt="AshanSandeep06" /> </p>
 
@@ -42,7 +42,7 @@
 </h3>
 
 
-<img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
+<img alt="Coding" width="600" src="https://github.com/AshanSandeep06/Images-repo/blob/master/src/assets/github-contribution-grid-snake.svg">
 
 ---
 
@@ -58,10 +58,10 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-<a href="https://twitter.com/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__pahasara1__" height="30" width="40" /></a>
-<a href="https://lk.linkedin.com/in/pasan-pahasara-356a75165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
-<a href="https://www.facebook.com/nowety.pasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_.shenux._/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.shenux._" height="30" width="40" /></a>
+<a href="https://twitter.com/Ashan__Sandeep"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__pahasara1__" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashan-sandeep-248912212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
+<a href="https://www.facebook.com/azhan.sandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/____ashan______/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.shenux._" height="30" width="40" /></a>
 
 </p>
 
@@ -92,4 +92,3 @@
 ***My Contributions*** 😥 <br>
 
 <a href="https://github.com/AshanSandeep06/github-readme-activity-graph"><img alt="Ashan Sandeep's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AshanSandeep06&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
