@@ -15,6 +15,7 @@
 
 ## 👨‍🦰 About me :
 
+- ❤️ I Studied at Mahinda College 🔥
 - 👨‍🎓 I'm`Studying` at IJSE-Institute of Software Engineering...
 - 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
 - 💻 I am a competitive programmer mainly at `Codeforces`.
