@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p><br>
 
-<img align="right" alt="Coding" width="350" src="https://github.com/AshanSandeep06/Images-repo/blob/master/src/assets/image.gif">
+<img align="right" alt="Coding" width="350" src="https://github.com/AshanSandeep06/Images-repo/blob/master/src/assets/9.png">
 
 <img src="https://komarev.com/ghpvc/?username=pahasara1&label=Profile%20views&color=0e75b6&style=flat" alt="AshanSandeep06" /> </p>
 
