@@ -70,17 +70,16 @@
 
 <h3 align="left"><b><i>Languages :</i></b></h3>
 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;&nbsp;&nbsp; </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;&nbsp;&nbsp; </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;&nbsp;&nbsp; </a>
-
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,py,js,html,css)](https://skillicons.dev)
 
 <h3 align="left"><b><i> Tools:</i></b></h3>
 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;&nbsp;&nbsp; </a>
-<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="40" height="40"/>&nbsp;&nbsp;&nbsp;</a>
-<a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" width="40" height="40"/>&nbsp;&nbsp;&nbsp;</a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,figma,idea,hibernate,jquery,github,git,bootstrap,linkedin,regex" />
+  </a>
+</p>
+
 
 <br><p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AshanSandeep06&show_icons=true&theme=gotham" alt="Ashan Sandeep | Stats" />
 
