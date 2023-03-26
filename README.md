@@ -52,7 +52,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshanSandeep06&theme=monokai)
 <br>
 <br>
-[![](https://github-readme-streak-stats.herokuapp.com?user=AshanSandeep06&theme=soft-green)]
+![](https://github-readme-streak-stats.herokuapp.com?user=AshanSandeep06&theme=soft-green)
 <br>
 <br>
 
@@ -87,10 +87,14 @@
 
 <div align="center">
 
-<p align="left"> <a href="https://github.com/AshanSandeep06/github-readme-stats"><img alt="AshanSandeep06's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshanSandeep06&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="142px"/></a> </p>
+[//]: # (<p align="left"> <a href="https://github.com/AshanSandeep06/github-readme-stats"><img alt="AshanSandeep06's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshanSandeep06&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="142px"/></a> </p>)
 
-<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshanSandeep06&langs_count=5&theme=gotham" alt="AshanSandeep06 | My GitHub Language Stats" /> -->
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshanSandeep06&langs_count=5&theme=gotham" alt="AshanSandeep06 | My GitHub Language Stats" /></p>
+</div>
 
 ***My Contributions*** 😥 <br>
 
-<a href="https://github.com/AshanSandeep06/github-readme-activity-graph"><img alt="Ashan Sandeep's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AshanSandeep06&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<p dir="auto"><a href="https://github.com/AshanSandeep06/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AshanSandeep06&amp;theme=react-dark" alt="Ashan Sandeep's github activity graph" data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph?username=AshanSandeep06&amp;theme=react-dark" style="max-width: 100%;"></a>
+<br>
+<br>
+</p>
