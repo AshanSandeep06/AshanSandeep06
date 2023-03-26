@@ -11,8 +11,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Pasan-Pahasara.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pahasara1?tab=followers)
 
-
-
 ## 👨‍🦰 About me :
 
 - ❤️ I Studied at Mahinda College 🔥
@@ -24,9 +22,11 @@
 - 🤔 I’m looking for help with Coding.
 - 🌱 Currently learning `Java`, `MySql`, `Python`
   <br>
+
 <div>
 
 #
+
 </div>
 
 ## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
@@ -56,8 +56,8 @@
 <br>
 <br>
 
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+
 <p align="center">
 <a href="https://twitter.com/Ashan__Sandeep"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__pahasara1__" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ashan-sandeep-248912212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
@@ -70,13 +70,15 @@
 
 <h3 align="left"><b><i>Languages :</i></b></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,py,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,py,js,html,css,ts,mongodb)](https://skillicons.dev)
 
 <h3 align="left"><b><i> Tools:</i></b></h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,figma,idea,hibernate,jquery,github,git,bootstrap,linkedin,regex" />
+    <img style="display: block; margin-bottom: 8px;" src="https://skillicons.dev/icons?i=ps,figma,idea,hibernate,jquery"/>
+    <img style="display: block; margin-bottom: 8px;" src="https://skillicons.dev/icons?i=github,git,bootstrap,linkedin,regex,vscode"/>
+    <img style="display: block; margin-bottom: 8px;" src="https://skillicons.dev/icons?i=postman,spring,tailwindcss,react,express,nodejs,maven"/>
   </a>
 </p>
 
